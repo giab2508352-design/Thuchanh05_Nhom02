@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hiển thị Ảnh và Video MP4</title>
+    <!-- Google Font: Poppins (font đẹp và hiện đại) -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet" />
+    <style>
+        /* Màu nền hiện đại, dịu mắt */
+        body {
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #1f2937, #3b82f6);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #e0e7ff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        h1 {
+            font-family: 'Poppins', sans-serif;
+            font-weight: 600;
+            font-size: 2.8rem;
+            margin-bottom: 10px;
+            text-align: center;
+            color: #dbeafe;
+            text-shadow: 0 0 8px rgba(59, 130, 246, 0.7);
+        }
+
+        .container {
+            max-width: 900px;
+            width: 100%;
+            background-color: rgba(255, 255, 255, 0.05);
+            padding: 20px 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 30px rgba(59, 130, 246, 0.4);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 25px;
+        }
+
+        img, video {
+            max-width: 100%;
+            border-radius: 12px;
+            box-shadow: 0 5px 20px rgba(59, 130, 246, 0.5);
+        }
+
+        p.description {
+            font-size: 1.1rem;
+            color: #bfdbfe;
+            text-align: center;
+            max-width: 700px;
+        }
+
+        footer {
+            margin-top: auto;
+            padding: 15px 0 5px;
+            font-size: 0.9rem;
+            color: #94a3b8;
+            text-align: center;
+            font-style: italic;
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .container {
+                padding: 15px 20px;
+            }
+
+            p.description {
+                font-size: 1rem;
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Lợi ích của Công nghệ số</h1>
+    <div class="container">
+        <img src="ảnh.png" alt="Ảnh minh họa" />
+        <p class="description">Đây là Infographic về lợi ích công nghệ số</p>
+        <video controls>
+            <source src="video.mp4" type="video/mp4" />
+            Trình duyệt của bạn không hỗ trợ phát video.
+        </video>
+    </div>
+    <footer>
+        © 2025 Bản quyền thuộc về bạn. Mọi quyền được bảo lưu.
+    </footer>
+</body>
+</html>
