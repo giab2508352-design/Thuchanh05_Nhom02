@@ -1,6 +1,6 @@
 # Thuchan05_Nhom02
 ## Thông tin sinh viên trong nhóm 2 
-- **Họ và tên:** Nguyễn Hoàng Đại Gia NV 3
+- **Họ và tên:** Nguyễn Hoàng Đại Gia
 - **MSSV:** B2508352 
 - **Họ và tên:** Nguyễn Ngọc Anh Đào
 - **MSSV:** B2508351
