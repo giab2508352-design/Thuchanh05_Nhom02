@@ -1,3 +1,4 @@
+# Thuchan05_Nhom02
 ## Thông tin sinh viên trong nhóm 2 
 - **Họ và tên:** Nguyễn Hoàng Đại Gia
 - **MSSV:** B2508352 
@@ -8,5 +9,4 @@
 - **Họ và tên:** Nguyễn Thiên Ân  
 - **MSSV:** B2508349
 - **Lớp:** Mạng máy tính và Truyền thông dữ liệu – K51
-- **Trường:** Đại học Cần Thơ# Thuchan05_Nhom02
-
+- **Trường:** Đại học Cần Thơ
