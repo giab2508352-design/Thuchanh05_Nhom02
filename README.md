@@ -6,7 +6,7 @@
 - **MSSV:** B2508351
 - **Họ và tên:** Đặng Ngọc Diễm
 - **MSSV:** B2508350
-- **Họ và tên:** Nguyễn Thiên Ân  NV 3
+- **Họ và tên:** Nguyễn Thiên Ân 
 - **MSSV:** B2508349
 - **Lớp:** Mạng máy tính và Truyền thông dữ liệu – K51
 - **Trường:** Đại học Cần Thơ
